@@ -1,0 +1,37 @@
+{
+  "name": "tailwindcss-kit",
+  "displayName": "TailwindCSS Kit",
+  "description": "A collection of extensions for TailwindCSS",
+  "version": "1.0.0",
+  "publisher": "KalimahApps",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalimahapps/tailwindcss-kit"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "bugs": {
+    "url": "https://github.com/kalimahapps/tailwindcss-kit/issues"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss kit",
+    "extension pack",
+    "css"
+  ],
+  "license": "MIT",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold",
+    "alfredbirk.tailwind-documentation"
+  ]
+}
