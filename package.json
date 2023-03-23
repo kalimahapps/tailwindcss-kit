@@ -2,7 +2,7 @@
   "name": "tailwindcss-kit",
   "displayName": "TailwindCSS Kit",
   "description": "A collection of extensions for TailwindCSS",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "KalimahApps",
   "icon": "logo.png",
   "repository": {
@@ -32,6 +32,7 @@
   "extensionPack": [
     "bradlc.vscode-tailwindcss",
     "stivo.tailwind-fold",
-    "alfredbirk.tailwind-documentation"
+    "alfredbirk.tailwind-documentation",
+    "KalimahApps.tailwind-config-viewer"
   ]
 }
