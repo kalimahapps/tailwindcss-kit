@@ -2,7 +2,7 @@
   "name": "tailwindcss-kit",
   "displayName": "TailwindCSS Kit",
   "description": "A collection of extensions for TailwindCSS",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "KalimahApps",
   "icon": "logo.png",
   "repository": {

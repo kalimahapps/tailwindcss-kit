@@ -24,4 +24,4 @@ A collection of extensions for TailwindCSS.
 
 - **[Tailwind Documentation](https://marketplace.visualstudio.com/items?itemName=alfredbirk.tailwind-documentation):** Instant search in Tailwind docs.
 
-- **[Tailwind Config Viewer](https://marketplace.visualstudio.com/items?itemName=KalimahApps.tailwindcss-kit):** View the config of your Tailwind CSS project in a sidebar. It will show you all the colors, fonts, spacing, etc. that you have defined in your config file as per tailwind.config.js file.
+- **[Tailwind Config Viewer](https://marketplace.visualstudio.com/items?itemName=KalimahApps.tailwind-config-viewer):** View the config of your Tailwind CSS project in a sidebar. It will show you all the colors, fonts, spacing, etc. that you have defined in your config file as per tailwind.config.js file.
